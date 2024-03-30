@@ -24,6 +24,7 @@
         }
         echo "<a href='formAddEmpl.php'><img src='telecharge.png' alt='Ajouter un employe'></a>";
         echo "<a href='delEmpl.php'><img src='delete.jpeg' alt='Supprimer un employe'></a>";
+        echo "<a href='UpdateEmpl.php'><img src='edit.png' alt='Modifier un employe'></a>";
     ?>
 </body>
 </html>
