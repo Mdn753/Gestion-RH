@@ -82,6 +82,6 @@ class ctrl {
 }
 $ctrl = new ctrl();
 $action = isset($_GET['action']) ? $_GET['action'] : 'allEmployes'; // Default to allEmployes if action is not specified
-echo "Action: " . $action;
+//echo "Action: " . $action;
 $ctrl->action($action);
 ?>
